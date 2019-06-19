@@ -43,7 +43,7 @@ module.exports = {
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/vue-essential/dist/',			// 原来为/
+    assetsPublicPath: '/',			// 原来为/ /vue-essential/dist/ ---github 站点托管
 	
     /**
      * Source Maps
